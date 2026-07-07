@@ -3,7 +3,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # Show title and description.
-st.title("💬 Chatbot")
+st.title("💬 Resto Arsbot")
 st.write("This is a simple chatbot that uses Google's Gemini model to generate responses.")
 
 # Load API key automatically from Streamlit secrets or environment variable.
